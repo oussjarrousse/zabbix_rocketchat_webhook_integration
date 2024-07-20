@@ -1,0 +1,1 @@
+# zabbix_rocketchat_webhook_script
