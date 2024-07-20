@@ -19,4 +19,4 @@ Contributions are welcome. Please fork this repository and open a pull request t
 
 ## License
 
-GPL 3.0
+GPL-3.0
